@@ -10,3 +10,12 @@ Ratings on Chain, a blockchain app beyond NFTs and tokens, transcends ONDC's rep
 ## Presentation
 
 [View Google Slides](https://docs.google.com/presentation/d/15bt_I0EsMJY88GWdiY1H9y9YbwXGMrC-tVQIR-E6t6U/edit?usp=sharing)
+
+
+## Project Build Reference
+
+This project follows the guidelines outlined in the [ONDC Document for ratings](https://docs.google.com/document/d/1VaafY8t47hjpoW6tdezGsPwLwxxaAaGc/edit).
+
+## Backn Protocol
+
+The project utilizes the [Backn Protocol](https://becknprotocol.io/) for building the rateitt platform. You can refer to the protocol for more information on the project's architecture and implementation details.
